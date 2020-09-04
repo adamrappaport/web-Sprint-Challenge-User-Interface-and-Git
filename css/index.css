@@ -144,3 +144,82 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+  
+.boxes{
+    width: 100%;
+    height:100%;
+    
+    
+}
+
+.box1{
+    background-color:teal;
+    padding
+
+}
+.box2{
+    background-color:gold;
+
+}
+.box3{
+    background-color:cadetblue;
+
+}
+.box4{
+    background-color:coral;
+}
+
+.box5{
+    background-color:crimson;
+}
+.box6{
+    background-color:forestgreen;
+}
+.box7{
+    background-color:darkorchid;
+
+}
+.box8{
+    background-color:hotpink;
+}
+.box9{
+    background-color:indigo;
+}
+.box10{
+    background-color:dodgerblue;
+}
+
+  
+
+
+   
+#top{
+    margin:5%;
+}
+
+header{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+}
+header div{
+    padding:4%;
+}
+
+
+
+section{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+
+}
+section div{
+    width:35%
+}
+
+.work{
+   padding:6%;
+
+}
